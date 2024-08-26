@@ -302,12 +302,12 @@ let questions = [
   {
     numb: 26,
     question: "Which tag is used to define a section in a document?",
-    answer: "<div>",
+    answer: "div",
     options: [
-      "<section>",
-      "<div>",
-      "<article>",
-      "<header>"
+      "section",
+      "div",
+      "article",
+      "header"
     ]
   },
 
@@ -326,12 +326,12 @@ let questions = [
   {
     numb:28,
     question: "Which HTML element is used to define the title of a document?",
-    answer: "<title>",
+    answer: "title",
     options: [
-      "<meta>",
-      "<title>",
-      "<header>",
-      "<head>"
+      "meta",
+      "title",
+      "header",
+      "head"
     ]
   },
 
@@ -374,12 +374,12 @@ let questions = [
   {
     numb: 32,
     question: "Which HTML element is used to define a hyperlink?",
-    answer: "<a>",
+    answer: "a",
     options: [
-      "<href>",
-      "<a>",
-      "<hef>",
-      "<link>"
+      "href",
+      "a",
+      "hef",
+      "link"
     ]
   },
 
@@ -388,9 +388,9 @@ let questions = [
     question: "How do you create a list of items in HTML?",
     answer: "Both B and C",
     options: [
-      "<list> and <item>",
-      "<ol> and <li>",
-      "<ul> and <li>",
+      "list and item",
+      "ol and li",
+      "ul and li",
       "Both B and C"
     ]
   },
@@ -398,12 +398,12 @@ let questions = [
   {
     numb: 34,
     question: "Which tag is used to include JavaScript in an HTML document?",
-    answer: "<script>",
+    answer: "script",
     options: [
-      "<js>",
-      "<script>",
-      "<javascript>",
-      "<code>"
+      "js",
+      "script",
+      "javascript",
+      "code"
     ]
   },
 
@@ -434,12 +434,12 @@ let questions = [
   {
     numb: 37,
     question: "How do you apply a style to an HTML element with an ID of header?",
-    answer: "#header { ... }",
+    answer: "#header",
     options: [
-      ".header { ... }",
-      "*header { ... }",
-      "#header { ... }",
-      "+header { ... }"
+      ".header",
+      "*header",
+      "#header",
+      "+header"
     ]
   },
 
@@ -458,12 +458,12 @@ let questions = [
   {
     numb: 39,
     question: "How do you select all <p> elements in CSS?",
-    answer: "p { ... }",
+    answer: "p",
     options: [
-      ".p { ... }",
-      "p { ... }",
-      "#p { ... }",
-      "*p { ... }"
+      ".p",
+      "p",
+      "#p",
+      "*p"
     ]
   },
 
@@ -589,13 +589,13 @@ let questions = [
 
   {
     numb: 50,
-    question: "How do you create a CSS class?",
-    answer: ".classname { ... }",
+     question: "What is the purpose of the <meta> tag?",
+    answer: "To provide metadata about the HTML document",
     options: [
-      ".classname { ... }",
-      "#classname { ... }",
-      "classname { ... }",
-      "class classname { ... }"
+      "To define a header",
+      "To provide metadata about the HTML document",
+      "To define an image",
+      "To insert an image"
     ]
   },
 ];
