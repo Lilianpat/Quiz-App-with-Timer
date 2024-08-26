@@ -62,12 +62,12 @@ let questions = [
     {
     numb: 6,
     question: "Which tag is used to define an HTML document",
-    answer: "<html>",
+    answer: "html",
     options: [
-      "<html>",
-      "<document>",
-      "<page>",
-      "<head>"
+      "html",
+      "document",
+      "page",
+      "head"
     ]
   },
 
@@ -86,24 +86,24 @@ let questions = [
   {
     numb: 8,
     question: "How do you create a hyperlink in HTML",
-    answer: "<a>",
+    answer: "a",
     options: [
-      "<link>",
-      "<a>",
-      "<hyper>",
-      "<url>"
+      "link",
+      "a",
+      "hyper",
+      "url"
     ]
   },
 
   {
     numb: 9,
     question: "Which tag is used to define a list item?",
-    answer: "<li>",
+    answer: "li",
     options: [
-      "<item>",
-      "<list>",
-      "<li>",
-      "<ul>"
+      "item",
+      "list",
+      "li",
+      "ul"
     ]
   },
 
@@ -194,12 +194,12 @@ let questions = [
   {
     numb: 17,
     question: "Which HTML tag is used to define an internal style sheet?",
-    answer: "<style>",
+    answer: "style",
     options: [
-      "<div>",
-      "<span>",
-      "<br>",
-      "<li>"
+      "div",
+      "span",
+      "br",
+      "li"
     ]
   },
 
@@ -218,12 +218,12 @@ let questions = [
   {
     numb: 19,
     question: "Which HTML tag is used to define an unordered list?",
-    answer: "",
+    answer: "ul",
     options: [
-      "<ul>",
-      "<ol>",
-      "<li>",
-      "<list>"
+      "ul",
+      "ol",
+      "li",
+      "list"
     ]
   },
 
@@ -242,12 +242,12 @@ let questions = [
   {
     numb: 21,
     question: "How do you define a table row in HTML?",
-    answer: "<tr>",
+    answer: "tr",
     options: [
-      "<tr>",
-      "<td>",
-      "<row>",
-      "<table>"
+      "tr",
+      "td",
+      "row",
+      "table"
     ]
   },
 
